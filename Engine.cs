@@ -46,6 +46,7 @@ namespace Hydrozagadka2
             }
         }
 
+        // FIXME Construktor too long, shall be short and do not set many fields as it gives a lot of place for errors
         public MapScreen()
         {
             SadConsole.Global.LoadFont("colored.font");
