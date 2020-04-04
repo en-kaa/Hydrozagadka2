@@ -4,7 +4,7 @@ using SadConsole;
 using SadConsole.Input;
 using Console = SadConsole.Console;
 
-
+// TODO: Use more DRY principle
 namespace Hydrozagadka2
 {
 
