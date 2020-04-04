@@ -15,6 +15,7 @@ namespace Hydrozagadka2 {
     }
     class TitleConsole : Console
     {
+    // TODO: Do not hardcode Console size (50,50)
         public TitleConsole(string title)
             : base(50, 50)
         {
