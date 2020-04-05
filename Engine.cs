@@ -115,6 +115,7 @@ namespace Hydrozagadka2
              }
            //map.SetGlyph(20, 20, 8);
         }
+        // TODO: NullReferenceException not handled for Keyboard info
         public override bool ProcessKeyboard(Keyboard info)
         {
             Point newPlayerPosition = PlayerPosition;
